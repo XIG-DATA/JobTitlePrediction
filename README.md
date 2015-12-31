@@ -3,7 +3,7 @@
 14th solution for Job Title competition of DataCastle (http://www.pkbigdata.com/common/competition/147.html)
 ### Task ###
 
-* Prediction major given a person's job experience 
+* Predict a person's major given a person's job experience 
 * Predict a person's second last company size
 * Predict a person's salary in its second last company 
 * Predict a person's job title in its second last company 
@@ -17,5 +17,5 @@
 
 ### Models ###
 
-* Xgboost, DNN, CNN
+* Xgboost, DNN, CNN with 1d convolution
 * The final model is ensemble of the 3 models
