@@ -1,0 +1,410 @@
+MAC地址!http://baike.baidu.com/view/69334.html?fromTaglist
+3g上网卡!http://baike.baidu.com/view/2379658.html?fromTaglist
+网络设备!http://baike.baidu.com/view/1158081.html?fromTaglist
+虚拟网卡!http://baike.baidu.com/view/545.html?fromTaglist
+ipconfig!http://baike.baidu.com/view/138367.html?fromTaglist
+ros!http://baike.baidu.com/view/980080.html?fromTaglist
+ifconfig!http://baike.baidu.com/view/1001503.html?fromTaglist
+腾达!http://baike.baidu.com/view/1660435.html?fromTaglist
+千兆以太网!http://baike.baidu.com/view/65106.html?fromTaglist
+PCMCIA!http://baike.baidu.com/view/69320.html?fromTaglist
+远程开机!http://baike.baidu.com/view/1965454.html?fromTaglist
+PCMCIA卡!http://baike.baidu.com/view/591980.html?fromTaglist
+集成网卡!http://baike.baidu.com/view/1405117.html?fromTaglist
+wep加密!http://baike.baidu.com/view/2802226.html?fromTaglist
+千兆网卡!http://baike.baidu.com/view/690430.html?fromTaglist
+dm9000!http://baike.baidu.com/view/1823556.html?fromTaglist
+bootrom!http://baike.baidu.com/view/1517735.html?fromTaglist
+CDMA卡!http://baike.baidu.com/view/659968.html?fromTaglist
+physical address!http://baike.baidu.com/view/3302622.html?fromTaglist
+远程唤醒!http://baike.baidu.com/view/69321.html?fromTaglist
+光纤网卡!http://baike.baidu.com/view/2888299.html?fromTaglist
+mii-tool!http://baike.baidu.com/view/1437039.html?fromTaglist
+抓包无线网卡!http://baike.baidu.com/view/3050644.html?fromTaglist
+服务器网卡!http://baike.baidu.com/view/31397.html?fromTaglist
+网卡绑定!http://baike.baidu.com/view/3541914.html?fromTaglist
+华为E5151!http://baike.baidu.com/view/9904639.html?fromTaglist
+Broadcom Advanced Control Suite3!http://baike.baidu.com/view/7599182.html?fromTaglist
+jumbo frames!http://baike.baidu.com/view/675369.html?fromTaglist
+以太网光纤网卡!http://baike.baidu.com/view/3890924.html?fromTaglist
+10/100Mbit/s自适应网卡!http://baike.baidu.com/view/1353556.html?fromTaglist
+华为EC189!http://baike.baidu.com/view/9904709.html?fromTaglist
+网络适配卡!http://baike.baidu.com/view/2610123.html?fromTaglist
+cs8900a!http://baike.baidu.com/view/1823497.html?fromTaglist
+TP-LINK TG-3269C!http://baike.baidu.com/view/4225638.html?fromTaglist
+NC-202E双口千兆电口网卡!http://baike.baidu.com/view/9354738.html?fromTaglist
+微星FM2-A75MA-E35!http://baike.baidu.com/view/9548853.html?fromTaglist
+电力网卡!http://baike.baidu.com/view/4060159.html?fromTaglist
+TP-LINK TF-3239DL!http://baike.baidu.com/view/4225635.html?fromTaglist
+中兴AC2787!http://baike.baidu.com/view/9905765.html?fromTaglist
+华为ET302s!http://baike.baidu.com/view/8050297.html?fromTaglist
+D-Link DFE-530TX!http://baike.baidu.com/view/4225628.html?fromTaglist
+光纤以太网卡!http://baike.baidu.com/view/2892353.html?fromTaglist
+10Mbit/s网卡!http://baike.baidu.com/view/1353481.html?fromTaglist
+华为E5805!http://baike.baidu.com/view/9908686.html?fromTaglist
+ZTE MU350!http://baike.baidu.com/view/2281515.html?fromTaglist
+Twist-Pair!http://baike.baidu.com/view/1199791.html?fromTaglist
+TP-Link TL-WN321G!http://baike.baidu.com/view/810759.html?fromTaglist
+Intel X520-DA2(E10G42BTDA)!http://baike.baidu.com/view/10308686.html?fromTaglist
+TP-LINK TL-WN620G!http://baike.baidu.com/view/810749.html?fromTaglist
+自由e W6!http://baike.baidu.com/view/9905791.html?fromTaglist
+Intel EXPI9300PT!http://baike.baidu.com/view/4225706.html?fromTaglist
+TP-LINK TF-3239D!http://baike.baidu.com/view/4225641.html?fromTaglist
+思科AironetPCM352!http://baike.baidu.com/view/838762.html?fromTaglist
+Linksys WUSB54G!http://baike.baidu.com/view/824487.html?fromTaglist
+SMC WPCIT-G!http://baike.baidu.com/view/823049.html?fromTaglist
+CELL802.11G+/G/B108MbpsPCMCIA无线网卡!http://baike.baidu.com/view/815081.html?fromTaglist
+TP-LINK TL-WN210!http://baike.baidu.com/view/810761.html?fromTaglist
+TP-LINK TL-WN510G!http://baike.baidu.com/view/810754.html?fromTaglist
+D-Link DGE-528T!http://baike.baidu.com/view/4225700.html?fromTaglist
+D-Link DWL-6650!http://baike.baidu.com/view/823031.html?fromTaglist
+D-Link DWL-120+!http://baike.baidu.com/view/823027.html?fromTaglist
+网件WPN111!http://baike.baidu.com/view/815102.html?fromTaglist
+TP-LINK TL-WN220M!http://baike.baidu.com/view/810762.html?fromTaglist
+TP-LINK TL-WN350G!http://baike.baidu.com/view/810757.html?fromTaglist
+Intel X520-SR2(E10G42BFSR)!http://baike.baidu.com/view/10308754.html?fromTaglist
+优必特EX-858!http://baike.baidu.com/view/9907792.html?fromTaglist
+CN5A科技广场!http://baike.baidu.com/view/4565790.html?fromTaglist
+IP-COM L3239D!http://baike.baidu.com/view/4225689.html?fromTaglist
+Intel PWLA8391GT!http://baike.baidu.com/view/4225661.html?fromTaglist
+Intel 9301CT!http://baike.baidu.com/view/4225647.html?fromTaglist
+网卡分流!http://baike.baidu.com/view/3967984.html?fromTaglist
+BUFFALO WLI-CB-G54S!http://baike.baidu.com/view/823102.html?fromTaglist
+BUFFALO WLI-U2-KG54!http://baike.baidu.com/view/823094.html?fromTaglist
+SMC 2862W!http://baike.baidu.com/view/823045.html?fromTaglist
+D-Link DWL-G520!http://baike.baidu.com/view/816447.html?fromTaglist
+D-Link DWL-G520+A!http://baike.baidu.com/view/816439.html?fromTaglist
+网件MA401!http://baike.baidu.com/view/815115.html?fromTaglist
+网件WN311B!http://baike.baidu.com/view/815089.html?fromTaglist
+TP-LINK TL-WN250+!http://baike.baidu.com/view/810764.html?fromTaglist
+TP-LINK TL-WN650G!http://baike.baidu.com/view/810755.html?fromTaglist
+泰钜LPG5810!http://baike.baidu.com/view/810740.html?fromTaglist
+TP-LINK TG-3201!http://baike.baidu.com/view/4225668.html?fromTaglist
+RJ-45网卡!http://baike.baidu.com/view/2012339.html?fromTaglist
+思科AIR-PCM342!http://baike.baidu.com/view/838763.html?fromTaglist
+思科AIR-PI21AG-W-K9!http://baike.baidu.com/view/824514.html?fromTaglist
+Linksys WUSB11!http://baike.baidu.com/view/824482.html?fromTaglist
+SMC 2862W-G!http://baike.baidu.com/view/823052.html?fromTaglist
+D-Link DWL-520+!http://baike.baidu.com/view/816465.html?fromTaglist
+D-Link DWL-G520+!http://baike.baidu.com/view/816452.html?fromTaglist
+爱迪麦斯WK-1067!http://baike.baidu.com/view/816392.html?fromTaglist
+网件WG111!http://baike.baidu.com/view/815113.html?fromTaglist
+CELL802.11B大功率USB无线局域网卡!http://baike.baidu.com/view/815068.html?fromTaglist
+华硕WL-107g!http://baike.baidu.com/view/812662.html?fromTaglist
+TendaTWL541UUSB无线网卡!http://baike.baidu.com/view/810703.html?fromTaglist
+神脑SL-2511UB!http://baike.baidu.com/view/808715.html?fromTaglist
+阿尔法AFW-GP50!http://baike.baidu.com/view/808671.html?fromTaglist
+Intel E1G44ET2!http://baike.baidu.com/view/10308674.html?fromTaglist
+VBEL VB-FE130 SC!http://baike.baidu.com/view/10308614.html?fromTaglist
+ITON TU930(EC1.1)!http://baike.baidu.com/view/9907840.html?fromTaglist
+腾达3G-W6!http://baike.baidu.com/view/9905984.html?fromTaglist
+卓远EVDO-6500!http://baike.baidu.com/view/9905824.html?fromTaglist
+自由e U6!http://baike.baidu.com/view/9905109.html?fromTaglist
+华为E510!http://baike.baidu.com/view/9904777.html?fromTaglist
+深圳市迈网科技有限公司!http://baike.baidu.com/view/9785383.html?fromTaglist
+腾达L8139D!http://baike.baidu.com/view/4225666.html?fromTaglist
+B-Link BL-L7830!http://baike.baidu.com/view/4225656.html?fromTaglist
+Linksys WPC51AB!http://baike.baidu.com/view/824489.html?fromTaglist
+Linksys WET11!http://baike.baidu.com/view/824483.html?fromTaglist
+Linksys WMP11!http://baike.baidu.com/view/824476.html?fromTaglist
+Linksys WPC11 V4.0!http://baike.baidu.com/view/824473.html?fromTaglist
+微星MP11B2!http://baike.baidu.com/view/823117.html?fromTaglist
+BUFFALO WLI-CB-G54HP!http://baike.baidu.com/view/823100.html?fromTaglist
+BUFFALO WLI2-PCI-G54!http://baike.baidu.com/view/823099.html?fromTaglist
+BUFFALO WLI-CB-G54A!http://baike.baidu.com/view/823096.html?fromTaglist
+BUFFALO WLI-U2-KG54-AI!http://baike.baidu.com/view/823095.html?fromTaglist
+SMC 2635W!http://baike.baidu.com/view/823084.html?fromTaglist
+SMC 9452TX!http://baike.baidu.com/view/823039.html?fromTaglist
+D-Link DWL-A520!http://baike.baidu.com/view/816461.html?fromTaglist
+爱迪麦斯EW-7128g!http://baike.baidu.com/view/816410.html?fromTaglist
+爱迪麦斯EW-7317UHg!http://baike.baidu.com/view/816404.html?fromTaglist
+爱迪麦斯EW-7117U!http://baike.baidu.com/view/816394.html?fromTaglist
+爱迪麦斯EW-7107PCG!http://baike.baidu.com/view/816390.html?fromTaglist
+爱迪麦斯EW-7318Ug!http://baike.baidu.com/view/815171.html?fromTaglist
+中怡数宽UB801R!http://baike.baidu.com/view/815167.html?fromTaglist
+网件MA111!http://baike.baidu.com/view/815122.html?fromTaglist
+华硕WL-107b!http://baike.baidu.com/view/812660.html?fromTaglist
+TP-LINK TL-WN250/251!http://baike.baidu.com/view/810763.html?fromTaglist
+TP-LINK TL-WN550G!http://baike.baidu.com/view/810752.html?fromTaglist
+泰钜WUSB-11!http://baike.baidu.com/view/810743.html?fromTaglist
+华为3COMAolynkWUB300g!http://baike.baidu.com/view/810731.html?fromTaglist
+华为3COMWCB600g!http://baike.baidu.com/view/810726.html?fromTaglist
+TendaTWL542PPCI无线网卡!http://baike.baidu.com/view/810715.html?fromTaglist
+TendaTWL542U笔记本无线网卡!http://baike.baidu.com/view/810709.html?fromTaglist
+TendaTWL541C笔记本无线网卡!http://baike.baidu.com/view/810707.html?fromTaglist
+神脑SL-2511CDPLUSEXT2!http://baike.baidu.com/view/808697.html?fromTaglist
+磊科1010GP!http://baike.baidu.com/view/808688.html?fromTaglist
+阿尔法AFR-N450!http://baike.baidu.com/view/808669.html?fromTaglist
+金浪KN-W510U!http://baike.baidu.com/view/806783.html?fromTaglist
+金浪KN-W510C!http://baike.baidu.com/view/806779.html?fromTaglist
+AR_ADDR!http://baike.baidu.com/view/632726.html?fromTaglist
+VBEL VB-FE120 ZX.S80!http://baike.baidu.com/view/10309014.html?fromTaglist
+Intel X520-LR1(E10G41BFLR)!http://baike.baidu.com/view/10308750.html?fromTaglist
+华为E176!http://baike.baidu.com/view/9908628.html?fromTaglist
+华为i-Mo!http://baike.baidu.com/view/9907858.html?fromTaglist
+讯唐ST815!http://baike.baidu.com/view/9905916.html?fromTaglist
+兰必得L310!http://baike.baidu.com/view/9905743.html?fromTaglist
+国源GY199!http://baike.baidu.com/view/9905345.html?fromTaglist
+辰兴昌CXC-W6280HM!http://baike.baidu.com/view/9905142.html?fromTaglist
+辰兴昌CXC-E68HM!http://baike.baidu.com/view/9905094.html?fromTaglist
+朗科优信通A810!http://baike.baidu.com/view/9904847.html?fromTaglist
+FAST FN99!http://baike.baidu.com/view/4225969.html?fromTaglist
+FAST FN8001G!http://baike.baidu.com/view/4225960.html?fromTaglist
+Netcore NE103!http://baike.baidu.com/view/4225880.html?fromTaglist
+Intel EXPI9402PF!http://baike.baidu.com/view/4225726.html?fromTaglist
+腾达TEL9901G!http://baike.baidu.com/view/4225673.html?fromTaglist
+思科AIR-CB21AG-A-K9!http://baike.baidu.com/view/824501.html?fromTaglist
+微星PC54G!http://baike.baidu.com/view/824456.html?fromTaglist
+微星CB54G2!http://baike.baidu.com/view/824448.html?fromTaglist
+微星MP54G!http://baike.baidu.com/view/824447.html?fromTaglist
+微星CB54G!http://baike.baidu.com/view/824446.html?fromTaglist
+BUFFALO WLI2-CF-S11!http://baike.baidu.com/view/823108.html?fromTaglist
+BUFFALO WLI2-PCI-G54S!http://baike.baidu.com/view/823104.html?fromTaglist
+SMC 2662W!http://baike.baidu.com/view/823076.html?fromTaglist
+SMC WPCI-G!http://baike.baidu.com/view/823054.html?fromTaglist
+SMC WCBT-G!http://baike.baidu.com/view/823043.html?fromTaglist
+SMC 1255TX!http://baike.baidu.com/view/823040.html?fromTaglist
+D-Link DWL-650+!http://baike.baidu.com/view/823025.html?fromTaglist
+D-Link DWL-AB650!http://baike.baidu.com/view/822915.html?fromTaglist
+D-Link DCF-660W!http://baike.baidu.com/view/816462.html?fromTaglist
+D-Link DWL-650!http://baike.baidu.com/view/816451.html?fromTaglist
+D-Link DWL-610!http://baike.baidu.com/view/816450.html?fromTaglist
+D-Link DWL-G550!http://baike.baidu.com/view/816434.html?fromTaglist
+D-Link DWA-645!http://baike.baidu.com/view/816432.html?fromTaglist
+中怡数宽CB801AS!http://baike.baidu.com/view/815169.html?fromTaglist
+中怡数宽CB801R!http://baike.baidu.com/view/815163.html?fromTaglist
+网件WAG311!http://baike.baidu.com/view/815160.html?fromTaglist
+网件MA311!http://baike.baidu.com/view/815141.html?fromTaglist
+网件WAG511!http://baike.baidu.com/view/815132.html?fromTaglist
+网件WAB501!http://baike.baidu.com/view/815119.html?fromTaglist
+网件MA101!http://baike.baidu.com/view/815116.html?fromTaglist
+网件WG111T!http://baike.baidu.com/view/815107.html?fromTaglist
+网件WPN311!http://baike.baidu.com/view/815104.html?fromTaglist
+CELL掌上电脑用CF无线局域网卡!http://baike.baidu.com/view/815065.html?fromTaglist
+CELL802.11b无线软AP!http://baike.baidu.com/view/812750.html?fromTaglist
+ProximORiNOCO11a/b/gComboCardGold网卡!http://baike.baidu.com/view/812676.html?fromTaglist
+华硕WL-110!http://baike.baidu.com/view/812661.html?fromTaglist
+华硕WL-161!http://baike.baidu.com/view/812658.html?fromTaglist
+TP-LINK TL-WN210+!http://baike.baidu.com/view/810760.html?fromTaglist
+TP-LINK TL-WN320G!http://baike.baidu.com/view/810750.html?fromTaglist
+泰钜LNC1110-C!http://baike.baidu.com/view/810747.html?fromTaglist
+泰钜WL-USB-11!http://baike.baidu.com/view/810739.html?fromTaglist
+TendaTWL541PPCI无线网卡!http://baike.baidu.com/view/810705.html?fromTaglist
+神脑SL-2511UB4Mercury!http://baike.baidu.com/view/808712.html?fromTaglist
+神脑SL-2511CFMercury!http://baike.baidu.com/view/808707.html?fromTaglist
+磊科1010GU!http://baike.baidu.com/view/808694.html?fromTaglist
+磊科1010GC!http://baike.baidu.com/view/808691.html?fromTaglist
+磊科320GP!http://baike.baidu.com/view/808684.html?fromTaglist
+磊科330GU!http://baike.baidu.com/view/808678.html?fromTaglist
+磊科331GU!http://baike.baidu.com/view/808674.html?fromTaglist
+阿尔法AFW-GC50!http://baike.baidu.com/view/808670.html?fromTaglist
+金浪KN-W510P!http://baike.baidu.com/view/806777.html?fromTaglist
+贝尔金F5D8000!http://baike.baidu.com/view/806773.html?fromTaglist
+联想天工LSC-710!http://baike.baidu.com/view/806750.html?fromTaglist
+VBEL VB-FE120 EX.S40!http://baike.baidu.com/view/10309018.html?fromTaglist
+VBEL VB-GE2240 ZX.S120!http://baike.baidu.com/view/10308967.html?fromTaglist
+VBEL VB-GE120 SC.S40!http://baike.baidu.com/view/10308954.html?fromTaglist
+VBEL VB-GE4230 EX.S40!http://baike.baidu.com/view/10308927.html?fromTaglist
+VBEL VB-GE120 EX.S40!http://baike.baidu.com/view/10308907.html?fromTaglist
+Intel X520-SR1(E10G41BFSR)!http://baike.baidu.com/view/10308757.html?fromTaglist
+Intel EXPX9502AFXSR!http://baike.baidu.com/view/10308671.html?fromTaglist
+Intel X520-T2(E10G42BT)!http://baike.baidu.com/view/10308661.html?fromTaglist
+BEL VB-GE130 SC!http://baike.baidu.com/view/10308630.html?fromTaglist
+Winyao WY576-LX1!http://baike.baidu.com/view/10306670.html?fromTaglist
+Winyao WY546-SFP!http://baike.baidu.com/view/10306656.html?fromTaglist
+兰必得L210!http://baike.baidu.com/view/9908650.html?fromTaglist
+ITON TU930(WC1.5)!http://baike.baidu.com/view/9906005.html?fromTaglist
+ITON TU930(EF9.1)!http://baike.baidu.com/view/9905996.html?fromTaglist
+讯唐R55S!http://baike.baidu.com/view/9905934.html?fromTaglist
+品速TU930(EF7.1)!http://baike.baidu.com/view/9905886.html?fromTaglist
+卓远EVDO-118!http://baike.baidu.com/view/9905868.html?fromTaglist
+卓远GPS100!http://baike.baidu.com/view/9905831.html?fromTaglist
+兰必得800E!http://baike.baidu.com/view/9905781.html?fromTaglist
+讯唐R65!http://baike.baidu.com/view/9905571.html?fromTaglist
+辰兴昌CXC-E6500!http://baike.baidu.com/view/9905411.html?fromTaglist
+辰兴昌CXC-W6280!http://baike.baidu.com/view/9905395.html?fromTaglist
+辰兴昌CXC-E68H!http://baike.baidu.com/view/9905378.html?fromTaglist
+ITON TU830(TH5.1)!http://baike.baidu.com/view/9905254.html?fromTaglist
+国源GY122!http://baike.baidu.com/view/9905062.html?fromTaglist
+华为EC367!http://baike.baidu.com/view/9904812.html?fromTaglist
+中华风联通版!http://baike.baidu.com/view/7122573.html?fromTaglist
+FAST FN8169G!http://baike.baidu.com/view/4225976.html?fromTaglist
+Mercury C88!http://baike.baidu.com/view/4225936.html?fromTaglist
+Netcore NE104!http://baike.baidu.com/view/4225877.html?fromTaglist
+金浪KN-3269!http://baike.baidu.com/view/4225862.html?fromTaglist
+Intel PWLA8492MF!http://baike.baidu.com/view/4225718.html?fromTaglist
+D-Link DGE-660TD!http://baike.baidu.com/view/4225714.html?fromTaglist
+Intel EXPI9400PF!http://baike.baidu.com/view/4225710.html?fromTaglist
+TP-LINK TF-5239!http://baike.baidu.com/view/4225686.html?fromTaglist
+Intel PWLA8492MT!http://baike.baidu.com/view/4225681.html?fromTaglist
+Intel PILA8460M!http://baike.baidu.com/view/4225670.html?fromTaglist
+思科AIR-PI21AG-A-K9!http://baike.baidu.com/view/824505.html?fromTaglist
+Linksys WPC54G!http://baike.baidu.com/view/824480.html?fromTaglist
+Linksys WPC11!http://baike.baidu.com/view/824479.html?fromTaglist
+Linksys WPC11 V3.0!http://baike.baidu.com/view/824469.html?fromTaglist
+Linksys WPC54GS!http://baike.baidu.com/view/824468.html?fromTaglist
+Linksys WMP54GS!http://baike.baidu.com/view/824465.html?fromTaglist
+微星UB11B!http://baike.baidu.com/view/823115.html?fromTaglist
+BUFFALO WLI-USB-G54!http://baike.baidu.com/view/823110.html?fromTaglist
+BUFFALO WLI-USB-KB11!http://baike.baidu.com/view/823105.html?fromTaglist
+BUFFALO WLI2-USB-G54!http://baike.baidu.com/view/823101.html?fromTaglist
+BUFFALO WLI-CB-G54L!http://baike.baidu.com/view/823098.html?fromTaglist
+BUFFALO WLI-CB-G300N!http://baike.baidu.com/view/823090.html?fromTaglist
+BUFFALO WLI-PCI-G300N!http://baike.baidu.com/view/823089.html?fromTaglist
+SMC 2802W!http://baike.baidu.com/view/823085.html?fromTaglist
+SMC 2835W!http://baike.baidu.com/view/823080.html?fromTaglist
+SMC 2662W V.3!http://baike.baidu.com/view/823073.html?fromTaglist
+SMC SMCWPCI-N!http://baike.baidu.com/view/823038.html?fromTaglist
+D-Link DWL-520!http://baike.baidu.com/view/816467.html?fromTaglist
+D-Link DWL-A650!http://baike.baidu.com/view/816464.html?fromTaglist
+D-Link DWL-G650!http://baike.baidu.com/view/816454.html?fromTaglist
+D-Link DWL-G650M!http://baike.baidu.com/view/816448.html?fromTaglist
+D-Link DWL-AG660!http://baike.baidu.com/view/816444.html?fromTaglist
+爱迪麦斯EW-7115U!http://baike.baidu.com/view/816401.html?fromTaglist
+爱迪麦斯EW-7106PC!http://baike.baidu.com/view/816395.html?fromTaglist
+网件WG511T!http://baike.baidu.com/view/815151.html?fromTaglist
+网件WG311!http://baike.baidu.com/view/815148.html?fromTaglist
+网件WG311T!http://baike.baidu.com/view/815105.html?fromTaglist
+Proxim ORiNOCO 11 b/g PC Card Silver!http://baike.baidu.com/view/812744.html?fromTaglist
+ProximORiNOCO11bUSBAdapterSilver网卡!http://baike.baidu.com/view/812707.html?fromTaglist
+华硕WL-167g+Flash64!http://baike.baidu.com/view/812666.html?fromTaglist
+华硕WL-167g!http://baike.baidu.com/view/812663.html?fromTaglist
+华硕WL-138g!http://baike.baidu.com/view/812654.html?fromTaglist
+华硕WL-167gV2!http://baike.baidu.com/view/812653.html?fromTaglist
+华硕WL-138gV2!http://baike.baidu.com/view/812645.html?fromTaglist
+TP-LINK TL-WN310G!http://baike.baidu.com/view/810758.html?fromTaglist
+华为3COMAolynkWCB300g(CardBus网卡)!http://baike.baidu.com/view/810733.html?fromTaglist
+TendaTWL108C笔记本无线网卡!http://baike.baidu.com/view/810724.html?fromTaglist
+TendaTWL108PPCI无线网卡!http://baike.baidu.com/view/810719.html?fromTaglist
+TendaTWL542C笔记本无线网卡!http://baike.baidu.com/view/810713.html?fromTaglist
+神脑SL-3054UB5!http://baike.baidu.com/view/808714.html?fromTaglist
+磊科310GC!http://baike.baidu.com/view/808681.html?fromTaglist
+阿尔法AFW-GU50!http://baike.baidu.com/view/806790.html?fromTaglist
+贝尔金F5D9010zh!http://baike.baidu.com/view/806769.html?fromTaglist
+贝尔金F5D7000zh!http://baike.baidu.com/view/806764.html?fromTaglist
+贝尔金F5D7010zh!http://baike.baidu.com/view/806756.html?fromTaglist
+VBEL VB-FE120 ZX.S120!http://baike.baidu.com/view/10309009.html?fromTaglist
+VBEL VB-GE130 EX.S40!http://baike.baidu.com/view/10309003.html?fromTaglist
+VBEL VB-GE130 ZX.S120!http://baike.baidu.com/view/10308998.html?fromTaglist
+VBEL VB-GE230 EX.S40!http://baike.baidu.com/view/10308994.html?fromTaglist
+VBEL VB-GE2230 LX.S20!http://baike.baidu.com/view/10308989.html?fromTaglist
+VBEL VB-GE2230 ZX.S80!http://baike.baidu.com/view/10308980.html?fromTaglist
+VBEL VB-GE2230 ZX.S120!http://baike.baidu.com/view/10308975.html?fromTaglist
+VBEL VB-GE2240 EX.S40!http://baike.baidu.com/view/10308969.html?fromTaglist
+VBEL VB-GE120 SC.S20!http://baike.baidu.com/view/10308957.html?fromTaglist
+VBEL VB-GE120 SC.S60!http://baike.baidu.com/view/10308951.html?fromTaglist
+VBEL VB-GE120 SC.S80!http://baike.baidu.com/view/10308946.html?fromTaglist
+VBEL VB-GE2240 LX.S20!http://baike.baidu.com/view/10308923.html?fromTaglist
+VBEL VB-GE120 ZX.S80!http://baike.baidu.com/view/10308911.html?fromTaglist
+VBEL VB-GE120 SC.S120!http://baike.baidu.com/view/10308903.html?fromTaglist
+VBEL VB-GE130 SX!http://baike.baidu.com/view/10308633.html?fromTaglist
+VBEL VB-FE130 SX!http://baike.baidu.com/view/10308589.html?fromTaglist
+VBEL VB-FE120 SC.S120!http://baike.baidu.com/view/10308525.html?fromTaglist
+VBEL VB-10G402LR!http://baike.baidu.com/view/10306807.html?fromTaglist
+VBEL VB-10G402SR!http://baike.baidu.com/view/10306800.html?fromTaglist
+VBEL VB-10G401SR!http://baike.baidu.com/view/10306774.html?fromTaglist
+VBEL VB-GE120 SX!http://baike.baidu.com/view/10306757.html?fromTaglist
+VBEL VB-GE120 SC!http://baike.baidu.com/view/10306752.html?fromTaglist
+VBEL VB-10G402ZR!http://baike.baidu.com/view/10306700.html?fromTaglist
+Winyao WY576F!http://baike.baidu.com/view/10306687.html?fromTaglist
+讯唐T800!http://baike.baidu.com/view/9905974.html?fromTaglist
+优必特EX-818+!http://baike.baidu.com/view/9905841.html?fromTaglist
+讯唐ST986!http://baike.baidu.com/view/9905811.html?fromTaglist
+讯唐ST912!http://baike.baidu.com/view/9905802.html?fromTaglist
+ITON SR830(X6)!http://baike.baidu.com/view/9905428.html?fromTaglist
+辰兴昌CXC-W6280EH!http://baike.baidu.com/view/9905360.html?fromTaglist
+国源沃180!http://baike.baidu.com/view/9905318.html?fromTaglist
+ITON TU930(EF4.1)!http://baike.baidu.com/view/9905303.html?fromTaglist
+ITON TU930(EF8.0)!http://baike.baidu.com/view/9905273.html?fromTaglist
+华为E5二代!http://baike.baidu.com/view/9904733.html?fromTaglist
+阿尔卡特One Touch Y280!http://baike.baidu.com/view/9904669.html?fromTaglist
+WY5722T PCI-E X1 千兆网卡!http://baike.baidu.com/view/9894460.html?fromTaglist
+winyao wy546-sfp光纤网卡!http://baike.baidu.com/view/9248777.html?fromTaglist
+WY576F光纤网卡!http://baike.baidu.com/view/9246146.html?fromTaglist
+FAST FN8139!http://baike.baidu.com/view/4225949.html?fromTaglist
+NETGEAR FA311!http://baike.baidu.com/view/4225874.html?fromTaglist
+Intel PWLA8490MF!http://baike.baidu.com/view/4225717.html?fromTaglist
+Intel PILA8460C3!http://baike.baidu.com/view/4225694.html?fromTaglist
+IntelPXLA8590LR网卡!http://baike.baidu.com/view/1360066.html?fromTaglist
+思科AIR-PCI352!http://baike.baidu.com/view/824512.html?fromTaglist
+思科AIR-LMC352!http://baike.baidu.com/view/824496.html?fromTaglist
+思科AIR-PCM352!http://baike.baidu.com/view/824494.html?fromTaglist
+Linksys WUSB12!http://baike.baidu.com/view/824490.html?fromTaglist
+Linksys WPC55AG!http://baike.baidu.com/view/824485.html?fromTaglist
+Linksys WMP54G!http://baike.baidu.com/view/824477.html?fromTaglist
+Linksys WPC11 V2.5!http://baike.baidu.com/view/824475.html?fromTaglist
+Linksys WUSB54GC!http://baike.baidu.com/view/824460.html?fromTaglist
+微星PC11B2!http://baike.baidu.com/view/824452.html?fromTaglist
+微星CB11B2!http://baike.baidu.com/view/824450.html?fromTaglist
+SMC WCB-G!http://baike.baidu.com/view/823066.html?fromTaglist
+SMC 2602W V.3!http://baike.baidu.com/view/823060.html?fromTaglist
+D-Link DWL-AB520!http://baike.baidu.com/view/822912.html?fromTaglist
+D-Link DCF-650!http://baike.baidu.com/view/822903.html?fromTaglist
+D-Link DWL-G650+!http://baike.baidu.com/view/816457.html?fromTaglist
+D-Link DWL-510!http://baike.baidu.com/view/816449.html?fromTaglist
+D-Link DWL-AG530!http://baike.baidu.com/view/816436.html?fromTaglist
+爱迪麦斯EW-7108PCg!http://baike.baidu.com/view/816408.html?fromTaglist
+爱迪麦斯EW-7126!http://baike.baidu.com/view/816399.html?fromTaglist
+爱迪麦斯EW-7127PCG!http://baike.baidu.com/view/816388.html?fromTaglist
+爱迪麦斯EW-7113UHG!http://baike.baidu.com/view/816385.html?fromTaglist
+网件WG511!http://baike.baidu.com/view/815143.html?fromTaglist
+网件MA701!http://baike.baidu.com/view/815135.html?fromTaglist
+网件MA521!http://baike.baidu.com/view/815126.html?fromTaglist
+网件WPN511!http://baike.baidu.com/view/815098.html?fromTaglist
+网件WN121T!http://baike.baidu.com/view/815096.html?fromTaglist
+CELL802.11G/B+/BPCI无线局域网卡!http://baike.baidu.com/view/815072.html?fromTaglist
+CELLUltraSlimSD无线网络卡!http://baike.baidu.com/view/812748.html?fromTaglist
+ProximORiNOCO11bClientPCCardSilver网卡!http://baike.baidu.com/view/812702.html?fromTaglist
+ProximORiNOCO11a/b/gPCICardGold网卡!http://baike.baidu.com/view/812698.html?fromTaglist
+ProximORiNOCO11bUSBAdapterGold网卡!http://baike.baidu.com/view/812671.html?fromTaglist
+ProximORiNOCO11bClientPCCardGold网卡!http://baike.baidu.com/view/812667.html?fromTaglist
+华硕WL-100g!http://baike.baidu.com/view/812656.html?fromTaglist
+华硕WL-138gE!http://baike.baidu.com/view/812651.html?fromTaglist
+华硕WL-100gE!http://baike.baidu.com/view/812649.html?fromTaglist
+华硕WL-106gM!http://baike.baidu.com/view/812647.html?fromTaglist
+华硕WL-100gDluxe!http://baike.baidu.com/view/812641.html?fromTaglist
+泰钜LNC5410-U!http://baike.baidu.com/view/810737.html?fromTaglist
+华为3COMAolynkWCB200b(CardBus网卡)!http://baike.baidu.com/view/810735.html?fromTaglist
+神脑SL-2511CBVenus!http://baike.baidu.com/view/808696.html?fromTaglist
+VBEL VB-FE130 SC.S120!http://baike.baidu.com/view/10309043.html?fromTaglist
+VBEL VB-FE130 SC.S80!http://baike.baidu.com/view/10309039.html?fromTaglist
+VBEL VB-FE130 SC.S60!http://baike.baidu.com/view/10309037.html?fromTaglist
+VBEL VB-FE130 SC.S40!http://baike.baidu.com/view/10309031.html?fromTaglist
+VBEL VB-FE130 SC.S20!http://baike.baidu.com/view/10309028.html?fromTaglist
+VBEL VB-GE130 LX.S20!http://baike.baidu.com/view/10309005.html?fromTaglist
+VBEL VB-GE230 ZX.S80!http://baike.baidu.com/view/10308992.html?fromTaglist
+VBEL VB-GE2230 EX.S40!http://baike.baidu.com/view/10308984.html?fromTaglist
+BEL VB-GE4230 LX.S20!http://baike.baidu.com/view/10308941.html?fromTaglist
+VBEL VB-GE230 ZX.S120!http://baike.baidu.com/view/10308935.html?fromTaglist
+VBEL VB-GE120 ZX.S120!http://baike.baidu.com/view/10308931.html?fromTaglist
+VBEL VB-GE130 SC.S120!http://baike.baidu.com/view/10308918.html?fromTaglist
+VBEL VB-GE120 LX.S20!http://baike.baidu.com/view/10308900.html?fromTaglist
+Intel E1042BTDA!http://baike.baidu.com/view/10308761.html?fromTaglist
+Intel E10G42AFDA!http://baike.baidu.com/view/10308683.html?fromTaglist
+Intel EXPX9501AFXLR!http://baike.baidu.com/view/10308677.html?fromTaglist
+Intel X520-LR2(E10G42BFLR)!http://baike.baidu.com/view/10308667.html?fromTaglist
+VBEL VB-GE1302ET!http://baike.baidu.com/view/10308639.html?fromTaglist
+BEL VB-GE4230SX!http://baike.baidu.com/view/10308636.html?fromTaglist
+VBEL VB-FE120 SC!http://baike.baidu.com/view/10308566.html?fromTaglist
+VBEL VB-10G402LRM!http://baike.baidu.com/view/10306805.html?fromTaglist
+VBEL VB-10G401ZR!http://baike.baidu.com/view/10306793.html?fromTaglist
+VBEL VB-10G401ER!http://baike.baidu.com/view/10306790.html?fromTaglist
+VBEL VB-10G401LR!http://baike.baidu.com/view/10306782.html?fromTaglist
+VBEL VB-10G401LRM!http://baike.baidu.com/view/10306779.html?fromTaglist
+VBEL VB-GE1304PT!http://baike.baidu.com/view/10306742.html?fromTaglist
+Winyao WY576LX!http://baike.baidu.com/view/10306679.html?fromTaglist
+Winyao WY576-F1!http://baike.baidu.com/view/10306675.html?fromTaglist
+Winyao WY576-F2!http://baike.baidu.com/view/10306666.html?fromTaglist
+品速TU930(EW4.2)!http://baike.baidu.com/view/9908640.html?fromTaglist
+ITON 760CT2!http://baike.baidu.com/view/9905942.html?fromTaglist
+品速TU930(EF5.1)!http://baike.baidu.com/view/9905902.html?fromTaglist
+讯唐R68!http://baike.baidu.com/view/9905557.html?fromTaglist
+国源沃638!http://baike.baidu.com/view/9905334.html?fromTaglist
+Mercury C28L!http://baike.baidu.com/view/4225903.html?fromTaglist
+Mercury C28!http://baike.baidu.com/view/4225897.html?fromTaglist
+金浪KN-8139DS+!http://baike.baidu.com/view/4225856.html?fromTaglist
+思科AIR-CB21AG-W-K9!http://baike.baidu.com/view/824499.html?fromTaglist
+微星PC54G2!http://baike.baidu.com/view/824454.html?fromTaglist
+微星UB54G!http://baike.baidu.com/view/823116.html?fromTaglist
+BUFFALO WLI-PCI-G54!http://baike.baidu.com/view/823111.html?fromTaglist
+SMC SMCWCB-N!http://baike.baidu.com/view/823034.html?fromTaglist

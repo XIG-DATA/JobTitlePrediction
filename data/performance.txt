@@ -1,0 +1,265 @@
+Building prefix dict from /usr/local/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /var/folders/pd/td1k195j4slf3vcswn9srnm00000gn/T/jieba.cache
+Loading model cost 0.535 seconds.
+Prefix dict has been built succesfully.
+Ingredient Model
+Best Score: 0.24693
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 85}
+24
+Best Score: 0.87861
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 61}
+Best Score: 0.85502
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.74
+B Weight: 0.26
+Best Blended Score: 0.88236
+21
+Best Score: 0.96774
+Best Grid {'model__C': 3, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 52}
+Best Score: 0.95027
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.02, 'model__max_depth': 6, 'model__n_estimators': 120, 'model__subsample': 0.8}
+A Weight: 0.88
+B Weight: 0.12
+Best Blended Score: 0.96788
+20
+Best Score: 0.93505
+Best Grid {'model__C': 7, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 65}
+Best Score: 0.92672
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.08, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.66
+B Weight: 0.34
+Best Blended Score: 0.93743
+11
+Best Score: 0.92813
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 37}
+Best Score: 0.91950
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.08, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.62
+B Weight: 0.38
+Best Blended Score: 0.93209
+10
+Best Score: 0.97577
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 57}
+Best Score: 0.96607
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.1, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.9
+B Weight: 0.1
+Best Blended Score: 0.97596
+31
+Best Score: 0.89428
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 76}
+Best Score: 0.87958
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.12, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.76
+B Weight: 0.24
+Best Blended Score: 0.89609
+17
+Best Score: 0.95253
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 71}
+Best Score: 0.92832
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.64
+B Weight: 0.36
+Best Blended Score: 0.96272
+7
+Best Score: 0.85446
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 37}
+Best Score: 0.84063
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.08, 'model__max_depth': 8, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.64
+B Weight: 0.36
+Best Blended Score: 0.85872
+28
+Best Score: 0.80607
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 88}
+Best Score: 0.79647
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.5
+B Weight: 0.5
+Best Blended Score: 0.81621
+30
+Best Score: 0.88456
+Best Grid {'model__C': 3, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 27}
+Best Score: 0.88026
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.04, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.58
+B Weight: 0.42
+Best Blended Score: 0.88862
+22
+Best Score: 0.88284
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 34}
+Best Score: 0.81041
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.01, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.8}
+A Weight: 0.72
+B Weight: 0.28
+Best Blended Score: 0.88542
+16
+Best Score: 0.89800
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 31}
+Best Score: 0.88076
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.03, 'model__max_depth': 10, 'model__n_estimators': 140, 'model__subsample': 0.6}
+A Weight: 0.64
+B Weight: 0.36
+Best Blended Score: 0.90437
+25
+Best Score: 0.89704
+Best Grid {'model__C': 10, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 55}
+Best Score: 0.89410
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.05, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.5
+B Weight: 0.5
+Best Blended Score: 0.90504
+5
+Best Score: 0.88590
+Best Grid {'model__C': 7, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 73}
+Best Score: 0.87037
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.66
+B Weight: 0.34
+Best Blended Score: 0.89179
+13
+Best Score: 0.86962
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 41}
+Best Score: 0.84198
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.02, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.52
+B Weight: 0.48
+Best Blended Score: 0.87892
+23
+Best Score: 0.91881
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 91}
+Best Score: 0.90081
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 8, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.64
+B Weight: 0.36
+Best Blended Score: 0.92928
+18
+Best Score: 0.94343
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 61}
+Best Score: 0.93133
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.74
+B Weight: 0.26
+Best Blended Score: 0.94490
+9
+Best Score: 0.87656
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 46}
+Best Score: 0.86260
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.1, 'model__max_depth': 7, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.64
+B Weight: 0.36
+Best Blended Score: 0.88176
+12
+Best Score: 0.98128
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 99}
+Best Score: 0.97244
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.04, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.7
+B Weight: 0.3
+Best Blended Score: 0.98328
+0
+Best Score: 0.93021
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 21}
+Best Score: 0.88828
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.01, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.8}
+A Weight: 0.5
+B Weight: 0.5
+Best Blended Score: 0.93564
+19
+Best Score: 0.94913
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 91}
+Best Score: 0.95092
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.14, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.44
+B Weight: 0.56
+Best Blended Score: 0.95471
+1
+Best Score: 0.97446
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 91}
+Best Score: 0.96936
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 8, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.52
+B Weight: 0.48
+Best Blended Score: 0.97772
+8
+Best Score: 0.92104
+Best Grid {'model__C': 10, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 98}
+Best Score: 0.89024
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.04, 'model__max_depth': 7, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.62
+B Weight: 0.38
+Best Blended Score: 0.92526
+2
+Best Score: 0.97022
+Best Grid {'model__C': 3, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 88}
+Best Score: 0.96740
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.03, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.5
+B Weight: 0.5
+Best Blended Score: 0.97287
+3
+Best Score: 0.74280
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 41}
+Best Score: 0.66241
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.02, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.6
+B Weight: 0.4
+Best Blended Score: 0.75568
+29
+Best Score: 0.92076
+Best Grid {'model__C': 5, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 87}
+Best Score: 0.90906
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.14, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.68
+B Weight: 0.32
+Best Blended Score: 0.92359
+27
+Best Score: 0.90420
+Best Grid {'model__C': 8, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 54}
+Best Score: 0.89689
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.1, 'model__max_depth': 6, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.52
+B Weight: 0.48
+Best Blended Score: 0.91047
+15
+Best Score: 0.93535
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 61}
+Best Score: 0.92960
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 8, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.54
+B Weight: 0.46
+Best Blended Score: 0.94158
+6
+Best Score: 0.84994
+Best Grid {'model__C': 10, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 75}
+Best Score: 0.84331
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.1, 'model__max_depth': 6, 'model__n_estimators': 100, 'model__subsample': 0.6}
+A Weight: 0.54
+B Weight: 0.46
+Best Blended Score: 0.87043
+14
+Best Score: 0.88669
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 91}
+Best Score: 0.73684
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 7, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.58
+B Weight: 0.42
+Best Blended Score: 0.91456
+26
+Best Score: 0.93537
+Best Grid {'model__C': 8, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 27}
+Best Score: 0.85733
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.06, 'model__max_depth': 8, 'model__n_estimators': 50, 'model__subsample': 0.6}
+A Weight: 0.94
+B Weight: 0.06
+Best Blended Score: 0.93618
+4
+Best Score: 0.66971
+Best Grid {'model__C': 6, 'tfidf__ngram_range': (2, 6), 'feat__percentile': 91}
+Best Score: 0.52411
+Best Grid {'tfidf__ngram_range': (1, 2), 'model__nthread': 1, 'model__learning_rate': 0.04, 'model__max_depth': 7, 'model__n_estimators': 100, 'model__subsample': 0.7}
+A Weight: 0.98
+B Weight: 0.02
+Best Blended Score: 0.66879
+
+Feature Model: glm

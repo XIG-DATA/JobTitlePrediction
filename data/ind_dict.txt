@@ -1,0 +1,128 @@
+计算机:Computer
+培训:Train
+包装:Package
+石化:Petrifaction
+人力资源等:Human resources
+Internet:Internet
+咨询:Advisory
+室内设计:Interior design
+销售:Sales
+通信:Communicate
+Translator:Translator
+旅游:Travel
+专业服务:professional service
+生产:produce
+零售:retail
+制药:Pharmacy
+快速消费品（食品:FMCG (food
+汽车:Car
+广告:Advertising
+生物:Biological
+采掘:Mining
+政府:Government
+医疗:Health
+印刷:Print
+媒体:Media
+金融:Financial
+拍卖:Auction
+礼品:Gift
+Operation:Operation
+教育:Education
+HR:HR
+体育:physical education
+Legal:Legal
+会计:Accounting
+美容:Beauty
+公务员:Civil Servants
+矿产:Mineral
+会展:Exhibition
+医药:Medicine
+电子技术:Electronic Technology
+Construction:Construction
+公务员:Civil Servants
+耐用消费品（服饰:Consumer durables (clothing
+法律:Law
+物流:Logistics
+采购:Purchase
+电信:Telecommunications
+基金:Fund
+市场:Market
+IT服务:IT Services
+Customer Service:Customer Service
+Official:Official
+机电设备:Electrical Equipment
+担保:Guarantee
+加工制造（原料加工:Manufacturing (raw materials
+检验:Test
+家具:Furniture
+行政:Administrative
+能源:Energy
+公共事业:Public utilities
+牧:Shepherd
+护理:Nurse
+航空:Aviation
+人事:Personnel
+系统:System
+Computer:Computer
+交通:Traffic
+广告:Advertising
+生物:Biological
+娱乐:Entertainment
+房地产:real estate
+检测:Detect
+影视:Television
+销售:Sales
+Purchasing:Purchasing
+Pharmaceuticals:Pharmaceuticals
+林:Forest
+建筑:Building
+保健:Health
+出版:Publishing
+Finance:Finance
+医疗设备:Medical Equipment
+银行:Bank
+半导体:Semiconductor
+证券:Securities
+数据:Data
+建筑:Building
+物业管理:Property Management
+电气:Electric
+会计:Accounting
+翻译:Translation
+工艺美术:Arts and Crafts
+信托:Trust
+客服:Customer Service
+纺织:Spinning
+Sales:Sales
+维护:Maintain
+人事:Personnel
+Media:Media
+烟酒:Alcohol and tobacco
+大型设备:Large equipment
+Banking:Banking
+生产:produce
+农:Farming
+学术:Scholarship
+石油:Oil
+计算机:Computer
+Marketing:Marketing
+期货:Futures
+贸易:Trade
+Manufacturing:Manufacturing
+收藏品:Collection
+电力:Electric power
+建材:Building Materials
+Admin:Admin
+Consultant:Consultant
+玩具:Toy
+Advertising:Advertising
+Biotechnology:Biotechnology
+皮革:Leather
+酒店:Hotels
+家居:Home
+饮料:Drink
+Telecom:Telecom
+互联网:the Internet
+Accounting:Accounting
+营运:Service
+财会:Finance and accounting
