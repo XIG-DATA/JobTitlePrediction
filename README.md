@@ -1,21 +1,21 @@
 # README #
-14th solution for Job Title competition of DataCastle(http://www.pkbigdata.com/common/competition/147.html)
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+14th solution for Job Title competition of DataCastle (http://www.pkbigdata.com/common/competition/147.html)
+### Task ###
 
-### Contribution guidelines ###
+* Prediction major given a person's job experience 
+* Predict a person's second last company size
+* Predict a person's salary in its second last company 
+* Predict a person's job title in its second last company 
+* The final result is weighted averaged of the four tasks
 
-* Writing tests
-* Code review
-* Other guidelines
+### Feature  Engineering###
 
-### Who do I talk to? ###
+* TFIDF of position, department descriptions 
+* some hard-coded features 
 
-* Repo owner or admin
-* Other community or team contact
+
+### Models ###
+
+* Xgboost, DNN, CNN
+* The final model is ensemble of the 3 models
