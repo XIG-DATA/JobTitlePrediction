@@ -12,6 +12,7 @@
 ### Feature  Engineering###
 
 * TFIDF of position, department descriptions 
+*  Cross-entropy features of A with respect to target C
 * some hard-coded features 
 
 
