@@ -26,29 +26,6 @@ def cutword_1(x):
     words = jieba.cut(x, cut_all = False)
     return ' '.join(words)
 
-def getNewsData():
-    rootdir = '../Reduced/'
-    dirs = os.listdir(rootdir)
-    dirs = [path.join(rootdir,f) for f in dirs if f.startswith('C')]
-    text_t = {}
-    for i, d in enumerate(dirs):
-        files = os.listdir(d)
-        files = [path.join(d, x) for x in files if x.endswith('txt') and not x.startswith('.')]
-        text_t[i] = [load_txt(f) for f in files]
-    flen = [len(t) for t in text_t.values()]
-    labels = np.repeat(text_t.keys(),flen)
-    import itertools
-    merged = list(itertools.chain.from_iterable(text_t.values()))
-    df = pd.DataFrame({'label': labels, 'txt': merged})
-    df['ready_seg'] =df['txt'].str.replace(ur'\W+', ' ',flags=re.U) 
-    df['ready_seg'] =df['ready_seg'].str.replace(r'[A-Za-z]+', ' ENG ')
-    df['ready_seg'] =df['ready_seg'].str.replace(r'\d+', ' NUM ')
-    df['seg_word'] = df.ready_seg.map(cutword_1)
-    textraw = df.seg_word.values.tolist()
-    textraw = [line.encode('utf-8') for line in textraw]
-    y = df.label.values 
-    return textraw, y
-def getJobData():
     train_list = []
     for line in open('../data/train_clean.json', 'r'):
         train_list.append(json.loads(line))
